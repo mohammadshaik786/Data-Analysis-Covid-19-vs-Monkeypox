@@ -4,7 +4,7 @@ Project Created By:
 
 Mohammad Shaik: ms6bz@umsystem.edu  
 Rajesh Tummala: rt9cd@umsystem.edu  
-Kranthi Kumar Mangalagiri: kmq3v@umsystem.edu 
+Kranthi Kumar Mangalagiri: kmq3v@umsystem.edu   
 Niharika Thakur: ntf7t@umsystem.edu 
 
 Grp No: 20
