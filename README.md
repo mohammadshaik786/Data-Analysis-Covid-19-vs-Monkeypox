@@ -23,7 +23,6 @@ In this project, we will learn how to preprocess and merge datasets to calculate
 
 Link to the dataset: 
 
-https://www.kaggle.com/datasets/imdevskp/corona-virus-report
-
+https://www.kaggle.com/datasets/imdevskp/corona-virus-report  
 https://www.kaggle.com/datasets/deepcontractor/monkeypox-dataset-daily-updated
 
