@@ -2,10 +2,10 @@
 
 Project Created By:
 
-Mohammad Shaik: ms6bz@umsystem.edu 
-Rajesh Tummala: rt9cd@umsystem.edu 
+Mohammad Shaik: ms6bz@umsystem.edu  
+Rajesh Tummala: rt9cd@umsystem.edu  
 Kranthi Kumar Mangalagiri: kmq3v@umsystem.edu 
-Niharika Thakur: ntf7t@umsystem.edu
+Niharika Thakur: ntf7t@umsystem.edu 
 
 Grp No: 20
 
@@ -24,5 +24,6 @@ In this project, we will learn how to preprocess and merge datasets to calculate
 Link to the dataset: 
 
 https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+
 https://www.kaggle.com/datasets/deepcontractor/monkeypox-dataset-daily-updated
 
